@@ -83,8 +83,6 @@ The platform integrates multiple functional modules designed to provide actionab
 
 This technology stack prioritizes accessibility, clarity, and responsiveness, ensuring that both technical and non-technical stakeholders can navigate the platform effectively and derive meaningful insights to guide policy decisions. <br>
 
-![Search Bar for Verifying Risk of Contractors, How NCRSS Works, and Why This Matters to You](relative/path/to/Figure2.png)
-
 ## **Methodolgy**
 
 This study applied a risk-driven data forensics approach to assess systemic weaknesses in public procurement and to determine the operational requirements for the National Contractor Risk Scoring System (NCRSS). The methodology focused on standardizing heterogeneous government datasets, generating objective risk measures, and conducting quantitative tests that isolate structural performance and integrity issues.
