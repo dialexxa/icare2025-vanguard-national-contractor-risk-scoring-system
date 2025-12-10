@@ -83,8 +83,6 @@ The platform integrates multiple functional modules designed to provide actionab
 
 This technology stack prioritizes accessibility, clarity, and responsiveness, ensuring that both technical and non-technical stakeholders can navigate the platform effectively and derive meaningful insights to guide policy decisions.
 
-
-
 ## **Methodolgy**
 
 This study applied a risk-driven data forensics approach to assess systemic weaknesses in public procurement and to determine the operational requirements for the National Contractor Risk Scoring System (NCRSS). The methodology focused on standardizing heterogeneous government datasets, generating objective risk measures, and conducting quantitative tests that isolate structural performance and integrity issues.
@@ -158,5 +156,15 @@ By integrating previously siloed datasets—CPES, PhilGEPS, blacklisting records
 Evidence shows that infrastructure risk is systemic, concentrated among certain contractors and regions, and worsened by political influence and opaque ownership. Quantitative risk scoring and network analysis provide actionable tools for policymakers to identify high-risk contractors, prevent collusion, and enforce accountability. Linking operational performance with governance indicators allows for preventive, data-driven interventions, ensuring procurement aligns with public interest and strengthens transparency, ethical standards, and infrastructure resilience.
 
 ## **Setup and Installation Guide**
+
+The National Contractor Risk Scoring System (NCRSS) is designed for immediate deployment with minimal technical requirements. Users can access and install the system via a single web-based link: [NCRSS](https://tinyurl.com/NCRSS-NCPAG)
+
+#### *Installation Process*
+1. *Access the Link* – Open the URL in any standard web browser. The platform is fully compatible with modern browsers and requires no additional software.
+2. *Load the System* – Upon opening the link, the NCRSS interface will load automatically. No local server setup or configuration is required.
+3. *Navigate Modules* – Users can immediately interact with all platform components, including contractor search, risk scoring, indicator breakdowns, and feedback submission.
+4. *System Readiness* – The platform is fully operational upon access, ensuring immediate usability for both policy stakeholders and technical users.
+
+This setup procedure emphasizes simplicity and accessibility, ensuring that public procurement officers, contractors, and other relevant stakeholders can engage with the system efficiently and without technical barriers.
 
 ## **Data Sources**
